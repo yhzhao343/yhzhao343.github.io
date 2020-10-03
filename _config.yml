@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Yuhui Zhao"
   avatar           : "yuhui.jpg"
-  bio              : "A maker, an engineer and a first year PhD student trying to figure out his place in the world. Currently a PhD student in Computer Schience (Intelligent System track) at Georgia Tech and a part-time student researcher at Google. My research interests include mobile and ubiquitous computing, self sustainable sensing and computing, accessibility technologies, and brain-computer interface."
-  location         : "Atlanta GA"
+  bio              : "A maker, an engineer and a first year PhD student trying to figure out his place in the world. Currently a PhD student in Computer Schience (Intelligent System track) at Georgia Tech and a part-time student researcher at Google. My research interests include mobile and ubiquitous computing, self sustainable sensing and computing, accessibility technologies, and brain-computer interface. My advisor is <a href="https://www.cc.gatech.edu/home/thad/">Dr.Thad Starner</a>, and I also work with <a href="http://ubicomp.cc.gatech.edu/gregory-d-abowd/">Dr. Gregory Abowd</a>"
+  location         : "Georgia Institute of Technology, Atlanta GA"
   employer         :
   pubmed           :
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=TS16jaYAAAAJ"
-  email            :
+  email            : "yzhao343[at]gatech.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -97,13 +97,13 @@ author:
   facebook         :
   foursquare       :
   github           : "yhzhao343"
-  google_plus      :
+  google_plus      : "yhzhao343@gmail.com"
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : "https://orcid.org/0000-0001-8976-2041"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username

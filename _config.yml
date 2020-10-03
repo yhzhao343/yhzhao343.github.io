@@ -80,9 +80,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
+  name             : "Yuhui Zhao"
   avatar           : "yuhui.jpg"
-  bio              : "A maker, an engineer and a first year PhD student trying to figure out his place in the world. Current research interests include mobile and ubiquitous computing, self sustainable sensing and computing, accessibility technologies, and brain-computer interface"
+  bio              : "A maker, an engineer and a first year PhD student trying to figure out his place in the world. Currently a PhD student in Computer Schience (Intelligent System track) at Georgia Tech and a part-time student researcher at Google. My research interests include mobile and ubiquitous computing, self sustainable sensing and computing, accessibility technologies, and brain-computer interface."
   location         : "Atlanta GA"
   employer         :
   pubmed           :

@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "About me"
 excerpt: "About me"
 author_profile: true
 redirect_from:
@@ -8,11 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-# About me
-======
 My name is Yuhui Zhao. I am a first year computer science PhD student at Georgia Institute of Technology. I also got my B.S. and M.S. in computer science at GT. When I first started college, I was an Mechanical Engeering Major. I love physical prototyping and making stuff. In my sophomore year, I became a volunteer prototype instructor at the [Invention Studio @ Georgia Tech](https://inventionstudio.gatech.edu/) where I help and teach people to 3D print, laser cut/engrave, make PCBs, and use water jet to make their projects come true. Later on, I found my passion in computer science, switched my major, and got a B.S. and M.S. in it. My main research intersts are in mobile and ubiquitous computing, self sustainable sensing and computing, accessibility technologies, and brain-computer interface.
 
-Currently, I work with my advisor [Dr. Thad Starner](https://www.cc.gatech.edu/home/thad/), [Dr. Melody Jackson](https://www.cc.gatech.edu/home/melody/) and my wonderful team of undergrades and Master's students on the [BrainBraille](https://github.gatech.edu/yzhao343/BrainBraille_dataset) project where we try to develop a Brain-Computer interface for [ALS](https://en.wikipedia.org/wiki/Amyotrophic_lateral_sclerosis) patients like Steven Hawking. ALS patients gradually lose downstream transmission of all muscles control signals from the brain, making them unable to communicate. Leveraging the fact that when they attempt to move, their brain signal is similar to health people, the BrainBraille project maps the activation of muscles in different body part to a Braille-like character, enabling ALS patients to communicate through a touch-typing like interface without requiring intense visual attention.
+Currently, I work with my advisor [Dr. Thad Starner](https://www.cc.gatech.edu/home/thad/), [Dr. Melody Jackson](https://www.cc.gatech.edu/home/melody/) and my wonderful team of undergrades and Master's students on the **[BrainBraille](https://github.gatech.edu/yzhao343/BrainBraille_dataset)** project where we try to develop a Brain-Computer interface for [ALS](https://en.wikipedia.org/wiki/Amyotrophic_lateral_sclerosis) patients like Steven Hawking. ALS patients gradually lose downstream transmission of all muscles control signals from the brain, making them unable to communicate. Leveraging the fact that when they attempt to move, their brain signal is similar to health people, the BrainBraille project maps the activation of muscles in different body part to a Braille-like character, enabling ALS patients to communicate through a touch-typing like interface without requiring intense visual attention.
 
 I also work with [Dr. Gregory Abowd](http://ubicomp.cc.gatech.edu/gregory-d-abowd/) and my amazing colleagues at the [GT Ubicomp group](http://ubicomp.cc.gatech.edu/) on the [COSMOS](https://cosmos.gatech.edu/) project where we develop novel low power/self sustainable sensing and computing technologies that can be embedded into everyday objects.
 
